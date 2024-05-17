@@ -120,7 +120,7 @@ This work is licensed under a
 |                                        | Implement regular surveys or feedback sessions                        | Medium    |
 |                                        | Act on feedback to improve processes and practices                    | Medium    |
 |                                        | Ensure transparency in how feedback is used and addressed             | Low       |
-| **10. Personal development**           | Identify areas for your own development as a leader                   | High      |
+| **10. Manager's personal development**           | Identify areas for your own development as a leader                   | High      |
 |                                        | Seek out training, mentorship, or coaching opportunities              | Medium    |
 |                                        | Allocate time for reading and staying updated on industry trends      | Low       |
 |                                        | Set boundaries to manage your time effectively                        | High      |
