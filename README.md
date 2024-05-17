@@ -8,6 +8,16 @@
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 - [The Checklist](#the-checklist)
+    1. [Onboarding and integration](#goal1)
+    2. [Setting clear expectations and goals](#goal2)
+    3. [Building a strong team culture](#goal3)
+    4. [Technical leadership and guidance](#goal4)
+    5. [Project management and execution](#goal5)
+    6. [Performance management and feedback](#goal6)
+    7. [Communication and collaboration](#goal7)
+    8. [Addressing challenges and roadblocks](#goal8)
+    9. [Monitoring and adjusting strategy](#goal9)
+    10. [Manager's personal development](#goal10)
 - [Version History](#version-history)
 
 ## Introduction
@@ -47,7 +57,7 @@ This work is licensed under a
 
 | Goal                                   | Sub-task                                                              | Priority  |
 |----------------------------------------|-----------------------------------------------------------------------|-----------|
-| **1. Onboarding and integration**      | Develop a comprehensive onboarding checklist                          | High      |
+| <a id="goal1"></a>**1. Onboarding and integration**      | Develop a comprehensive onboarding checklist                          | High      |
 |                                        | Prepare introductory materials on the company's vision, mission, and culture | High      |
 |                                        | Create documentation for ML project details, tools, and technologies  | High      |
 |                                        | Organize orientation sessions with key stakeholders                   | Medium    |
@@ -57,7 +67,7 @@ This work is licensed under a
 |                                        | Ensure new hires have necessary hardware and software                 | High      |
 |                                        | Set up accounts and permissions for all required tools and platforms  | High      |
 |                                        | Create a welcome package with essential information and access credentials | Medium    |
-| **2. Setting clear expectations and goals** | Write detailed job descriptions for each role                          | High      |
+| <a id="goal2"></a>**2. Setting clear expectations and goals** | Write detailed job descriptions for each role                          | High      |
 |                                        | Communicate roles and responsibilities to the team                    | High      |
 |                                        | Ensure clarity on team structure and reporting lines                  | Medium    |
 |                                        | Collaborate with team members to set individual SMART goals           | High      |
@@ -66,7 +76,7 @@ This work is licensed under a
 |                                        | Develop and share OKRs with the team                                  | High      |
 |                                        | Align individual goals with overall team OKRs                         | High      |
 |                                        | Review OKRs quarterly to track progress and make adjustments          | Medium    |
-| **3. Building a strong team culture**  | Schedule weekly team meetings and daily stand-ups                     | High      |
+| <a id="goal3"></a>**3. Building a strong team culture**  | Schedule weekly team meetings and daily stand-ups                     | High      |
 |                                        | Plan monthly one-on-ones with each team member                        | High      |
 |                                        | Organize quarterly all-hands meetings to discuss overall progress     | Medium    |
 |                                        | Plan monthly team-building activities (virtual or in-person)          | Medium    |
@@ -75,7 +85,7 @@ This work is licensed under a
 |                                        | Promote diversity and inclusion initiatives                           | High      |
 |                                        | Encourage open communication and feedback                             | Medium    |
 |                                        | Implement policies to ensure a respectful and collaborative work environment | Medium    |
-| **4. Technical leadership and guidance** | Define and document the technical vision for ML projects               | High      |
+| <a id="goal4"></a>**4. Technical leadership and guidance** | Define and document the technical vision for ML projects               | High      |
 |                                        | Share the vision with the team and gather feedback                    | High      |
 |                                        | Update the vision regularly based on new insights and developments    | Medium    |
 |                                        | Establish a code review process and guidelines                        | High      |
@@ -84,7 +94,7 @@ This work is licensed under a
 |                                        | Identify key areas for team development and learning                  | High      |
 |                                        | Organize monthly training sessions or workshops                       | Medium    |
 |                                        | Provide access to online courses, books, and conference opportunities | Low       |
-| **5. Project management and execution** | Implement Scrum or Kanban methodologies                                | High      |
+| <a id="goal5"></a>**5. Project management and execution** | Implement Scrum or Kanban methodologies                                | High      |
 |                                        | Train the team on agile practices                                     | Medium    |
 |                                        | Use agile tools to manage tasks and sprints (e.g. Jira, Trello)       | Medium    |
 |                                        | Assign tasks based on team members' skills and strengths              | High      |
@@ -93,7 +103,7 @@ This work is licensed under a
 |                                        | Set up a project management tool to track milestones and deliverables | High      |
 |                                        | Hold regular progress review meetings                                 | High      |
 |                                        | Adjust plans and timelines based on progress and feedback             | Medium    |
-| **6. Performance management and feedback** | Schedule bi-weekly or monthly feedback sessions                        | High      |
+| <a id="goal6"></a>**6. Performance management and feedback** | Schedule bi-weekly or monthly feedback sessions                        | High      |
 |                                        | Use structured feedback forms or templates                            | Medium    |
 |                                        | Encourage a culture of continuous feedback among team members         | Medium    |
 |                                        | Develop a performance review framework                                | High      |
@@ -102,25 +112,25 @@ This work is licensed under a
 |                                        | Create a system for recognizing individual and team achievements      | Medium    |
 |                                        | Celebrate milestones and successes publicly                           | Medium    |
 |                                        | Provide rewards or incentives for outstanding performance             | Low       |
-| **7. Communication and collaboration** | Establish regular meetings with other departments (e.g., data science, data engineering, product management) | High      |
+| <a id="goal7"></a>**7. Communication and collaboration** | Establish regular meetings with other departments (e.g., data science, data engineering, product management) | High      |
 |                                        | Define clear communication channels and points of contact             | Medium    |
 |                                        | Foster collaboration through joint projects or initiatives            | Medium    |
 |                                        | Ensure thorough documentation of projects, processes, and decisions   | High      |
 |                                        | Use tools  for documentation management(e.g. Confluence, Notion)      | Medium    |
 |                                        | Regularly update and review documentation for accuracy                | Low       |
-| **8. Addressing challenges and roadblocks** | Communicate your availability and openness to the team                 | High      |
+| <a id="goal8"></a>**8. Addressing challenges and roadblocks** | Communicate your availability and openness to the team                 | High      |
 |                                        | Encourage team members to raise concerns early                        | Medium    |
 |                                        | Provide a confidential channel for reporting issues                   | Low       |
 |                                        | Develop a framework for identifying and addressing problems           | High      |
 |                                        | Facilitate problem-solving workshops or brainstorming sessions        | Medium    |
 |                                        | Support team members in finding solutions and removing obstacles      | Low       |
-| **9. Monitoring and adjusting strategy** | Set up a quarterly review process to assess team progress              | High      |
+| <a id="goal9"></a>**9. Monitoring and adjusting strategy** | Set up a quarterly review process to assess team progress              | High      |
 |                                        | Gather feedback from team members and stakeholders                    | Medium    |
 |                                        | Adjust strategies and plans based on review outcomes                  | Medium    |
 |                                        | Implement regular surveys or feedback sessions                        | Medium    |
 |                                        | Act on feedback to improve processes and practices                    | Medium    |
 |                                        | Ensure transparency in how feedback is used and addressed             | Low       |
-| **10. Manager's personal development**           | Identify areas for your own development as a leader                   | High      |
+| <a id="goal10"></a>**10. Manager's personal development** | Identify areas for your own development as a leader                   | High      |
 |                                        | Seek out training, mentorship, or coaching opportunities              | Medium    |
 |                                        | Allocate time for reading and staying updated on industry trends      | Low       |
 |                                        | Set boundaries to manage your time effectively                        | High      |
