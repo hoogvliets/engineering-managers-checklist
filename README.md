@@ -86,7 +86,7 @@ This work is licensed under a
 |                                        | Provide access to online courses, books, and conference opportunities | Low       |
 | **5. Project Management and Execution** | Implement Scrum or Kanban methodologies                                | High      |
 |                                        | Train the team on agile practices                                     | Medium    |
-|                                        | Use agile tools like Jira or Trello to manage tasks and sprints       | Medium    |
+|                                        | Use agile tools to manage tasks and sprints (e.g. Jira, Trello)       | Medium    |
 |                                        | Assign tasks based on team members' skills and strengths              | High      |
 |                                        | Monitor workload distribution and adjust as needed                    | Medium    |
 |                                        | Ensure clear communication of expectations and deadlines              | Medium    |
@@ -97,16 +97,16 @@ This work is licensed under a
 |                                        | Use structured feedback forms or templates                            | Medium    |
 |                                        | Encourage a culture of continuous feedback among team members         | Medium    |
 |                                        | Develop a performance review framework                                | High      |
-|                                        | Conduct formal reviews bi-annually or quarterly                       | High      |
+|                                        | Conduct formal reviews bi-annually                                    | High      |
 |                                        | Provide actionable insights and development plans during reviews      | Medium    |
 |                                        | Create a system for recognizing individual and team achievements      | Medium    |
 |                                        | Celebrate milestones and successes publicly                           | Medium    |
 |                                        | Provide rewards or incentives for outstanding performance             | Low       |
-| **7. Communication and Collaboration** | Establish regular meetings with other departments (e.g., data engineering, product management) | High      |
+| **7. Communication and Collaboration** | Establish regular meetings with other departments (e.g., data science, data engineering, product management) | High      |
 |                                        | Define clear communication channels and points of contact             | Medium    |
 |                                        | Foster collaboration through joint projects or initiatives            | Medium    |
 |                                        | Ensure thorough documentation of projects, processes, and decisions   | High      |
-|                                        | Use tools like Confluence or Notion for documentation management      | Medium    |
+|                                        | Use tools  for documentation management(e.g. Confluence, Notion)      | Medium    |
 |                                        | Regularly update and review documentation for accuracy                | Low       |
 | **8. Addressing Challenges and Roadblocks** | Communicate your availability and openness to the team                 | High      |
 |                                        | Encourage team members to raise concerns early                        | Medium    |
